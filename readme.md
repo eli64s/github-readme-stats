@@ -1,6 +1,3 @@
-[![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?eli64s=eli64s&theme=gruvbox)](https://github.com/eli64s/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?eli64s=eli64s&layout=compact&theme=gruvbox)](https://github.com/eli64s/github-readme-stats)
-
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
